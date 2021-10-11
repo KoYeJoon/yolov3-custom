@@ -1,0 +1,7 @@
+venv/
+*.h5
+*.weights
+logs/
+__pycache__/
+*.zip
+.DS_Store
